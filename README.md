@@ -2,11 +2,9 @@
 [TOC]
 ##  客户端软件
 ### windows 平台
-####  v2rayN v3.27
+####  v2rayN
 1.  下载地址
-    ```
-    https://github.com/2dust/v2rayN/releases/download/3.27/v2rayN-Core.zip
-    ```
+    [官方下载页面](https://github.com/2dust/v2rayN/releases/)
     [点击下载](https://github.com/2dust/v2rayN/releases/download/3.27/v2rayN-Core.zip)
     
     扫码下载
