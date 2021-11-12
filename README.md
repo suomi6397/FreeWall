@@ -5,20 +5,19 @@
 ####  v2rayN
 1.  下载地址
     [官方下载页](https://github.com/2dust/v2rayN/releases/)
-    
+
     扫码下载
-    
-    
+
+
 1.  使用方法
 
 ### Android 平台
 ####  v2rayNG
 1.  下载地址
     [官方下载页](https://github.com/2dust/v2rayNG/releases)
-    
-    [点击下载](https://github.com/2dust/v2rayNG/releases/download/1.4.12/v2rayNG_1.4.12_arm64-v8a.apk)
-    扫码下载
-
+    [APK下载](https://github.com/2dust/v2rayNG/releases/download/1.6.25/v2rayNG_1.6.25.apk)
+    扫码下载     
+    ![ver_1.6.25](v2rayNG/images/ver_1.6.25.png)
 1.  使用方法
 
 ### IOS 苹果手机
